@@ -3,11 +3,22 @@
 
 1. **Project Overview**
 2. **Project Steps and Commands**
-   - 2.1 [Create Project Directory](#21-create-project-directory)
-   - 2.2 [Initialize Git Repository](#22-initialize-git-repository)
-   - 2.3 [Create the Bash Script File (.sh)](#23-create-the-bash-script-file-sh)
-   - 2.4 [Make the Script Executable](#24-make-the-script-executable)
-   - 2.5 [Set Up GitHub Repository and Link Remote](#25-set-up-github-repository-and-link-remote)
+   - 2.1 [Create Project Directory]
+     <img width="529" alt="Snipaste_2025-03-01_19-58-57" src="https://github.com/user-attachments/assets/2471c150-e12e-4c94-87f7-af943e0320a6" />
+
+   - 2.2 [Initialize Git Repository]
+     <img width="540" alt="Snipaste_2025-03-01_19-59-20" src="https://github.com/user-attachments/assets/03de63e3-3bdb-400b-bb48-8b5b6c323182" />
+
+   - 2.3 [Create the Bash Script File (.sh)]
+     <img width="493" alt="Snipaste_2025-03-01_19-59-51" src="https://github.com/user-attachments/assets/ff532589-712d-42e3-a0fa-69190ad133f6" />
+
+     -2.3 [Enter your bash code]
+     ![image](https://github.com/user-attachments/assets/79b0d3d2-5632-43af-b0ec-07e7373adfc7)
+
+
+   - 2.4 [Make the Script Executable]
+   ![image](https://github.com/user-attachments/assets/b7f48060-2040-45b3-bec9-09ec99d43e26)
+
 3. **Script Implementation Steps**
    - 3.1 [Prompt for User Input](#31-prompt-for-user-input)
    - 3.2 [Ask for Table Type (Full or Partial)](#32-ask-for-table-type-full-or-partial)
